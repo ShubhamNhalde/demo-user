@@ -1,0 +1,2 @@
+2022-07-27 12:43:44.047  WARN 30817 --- [restartedMain] c.n.user_service.UserServiceApplication  : Warn level log
+2022-07-27 12:43:44.056 ERROR 30817 --- [restartedMain] c.n.user_service.UserServiceApplication  : Error level log
